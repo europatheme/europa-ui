@@ -11,6 +11,9 @@ English | [Portuguese](README_ptbr.md)
    <a href="https://twitter.com/intent/follow?screen_name=gabrielmelodev">
     <img src="https://img.shields.io/twitter/follow/gabrielmelodev.svg?label=Follow%20@gabrielmelodev" alt="Follow @gabrielmelodev" />
   </a>
+   <a href="https://twitter.com/intent/follow?screen_name=geteuropaui">
+    <img src="https://img.shields.io/twitter/follow/geteuropaui.svg?label=Follow%20@geteuropaui" alt="Follow @geteuropaui" />
+  </a>
   <br>
   <br>
 </div>
