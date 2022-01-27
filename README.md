@@ -5,7 +5,7 @@ English | [Portuguese](README_ptbr.md)
   <img src="https://github.com/europaui.png" alt="Europa UI Icon" width="200">
   <br>
   <br>
-  <a href="https://github.com/europaui/europa-ui/actions/workflows/release.yml">
+  <a href="https://github.com/europaui/europa-ui/tree/main/.github/workflows">
     <img src="https://github.com/europaui/europa-ui/actions/workflows/release.yml/badge.svg" alt="Release">
   </a>
    <a href="https://twitter.com/intent/follow?screen_name=gabrielmelodev">
