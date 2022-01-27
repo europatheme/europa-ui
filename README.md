@@ -70,4 +70,8 @@ you're facing or, if you prefer, you can chat with us on our
   </tr>
 </table>
 
+## License
+
+MIT © [EUROPA UI](https://github.com/gabrielhmelo)
+
 
