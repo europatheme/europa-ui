@@ -72,6 +72,6 @@ you're facing or, if you prefer, you can chat with us on our
 
 ## License
 
-MIT © [EUROPA UI](https://github.com/gabrielhmelo)
+MIT © [Gabriel Melo](https://github.com/gabrielhmelo)
 
 
