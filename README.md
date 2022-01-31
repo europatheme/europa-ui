@@ -26,7 +26,7 @@ This project is very ambitious and at the moment I don't have much to share, but
 
 
 ## Contributing 🚀
-- The project is not well structured for contributions right now, if you find a bug, please [open an issue](https://github.com/europaui/europa-ui/issues) and let's discuss how to implement it 😁.
+- The project is not well structured for contributions right now, if you find a bug, please [open an issue](https://github.com/europatheme/europatheme/issues) and let's discuss how to implement it 😁.
 
 # How to install?
 
