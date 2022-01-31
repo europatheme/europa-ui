@@ -2,7 +2,7 @@ English | [Portuguese](README_ptbr.md)
 
 <div align="center">
   <h1>EUROPA UI</h1>
-  <img src="https://github.com/europaui.png" alt="Europa UI Icon" width="200">
+  <img src="https://github.com/europatheme.png" alt="Europa UI Icon" width="200">
   <br>
   <br>
   <a href="https://github.com/europaui/europa-ui/tree/main/.github/workflows">
